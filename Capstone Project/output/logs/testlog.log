@@ -2495,3 +2495,268 @@ Session ID: 84a14027cfc62ba0b481bb31db2ef6b9
 2023-03-24 00:28:25,105 - logger_File -INFO - User clicked in Sgin In Button
 2023-03-24 00:28:25,347 - logger_File -INFO - user is on account page
 2023-03-24 00:28:25,572 - logger_File -INFO - user clicked on order section
+2023-03-24 02:28:30,846 - logger_File -INFO - User is on retail website
+2023-03-24 02:28:30,998 - logger_File -INFO - User clicked on sign in option
+2023-03-24 02:28:31,174 - logger_File -INFO - User entred email and password
+2023-03-24 02:28:31,246 - logger_File -INFO - User clicked in Sgin In Button
+2023-03-24 02:28:31,774 - logger_File -INFO - user is on account page
+2023-03-24 02:28:31,916 - logger_File -INFO - user clicked on order section
+2023-03-24 02:36:19,928 - logger_File -INFO - User is on retail website
+2023-03-24 02:36:20,042 - logger_File -INFO - User clicked on sign in option
+2023-03-24 02:36:20,292 - logger_File -INFO - User entred email and password
+2023-03-24 02:36:20,359 - logger_File -INFO - User clicked in Sgin In Button
+2023-03-24 02:36:20,590 - logger_File -INFO - user is on account page
+2023-03-24 02:36:20,801 - logger_File -INFO - category changed
+2023-03-24 02:36:21,506 - logger_File -INFO - User click on All section
+2023-03-24 02:36:21,559 - logger_File -INFO - Electronicsoptions is present
+2023-03-24 02:36:21,657 - logger_File -INFO - Computersoptions is present
+2023-03-24 02:36:21,739 - logger_File -INFO - Smart Homeoptions is present
+2023-03-24 02:36:21,829 - logger_File -INFO - Sportsoptions is present
+2023-03-24 02:36:21,921 - logger_File -INFO - Automativeoptions is present
+2023-03-24 02:36:23,513 - logger_File -INFO - User is on retail website
+2023-03-24 02:36:23,682 - logger_File -INFO - User clicked on sign in option
+2023-03-24 02:36:23,863 - logger_File -INFO - User entred email and password
+2023-03-24 02:36:23,943 - logger_File -INFO - User clicked in Sgin In Button
+2023-03-24 02:36:24,186 - logger_File -INFO - user is on account page
+2023-03-24 02:36:24,452 - logger_File -INFO - category changed
+2023-03-24 02:36:25,086 - logger_File -INFO - User is on retail website
+2023-03-24 02:36:26,699 - logger_File -INFO - User is on retail website
+2023-03-24 02:36:26,839 - logger_File -INFO - User clicked on sign in option
+2023-03-24 02:36:27,017 - logger_File -INFO - User entred email and password
+2023-03-24 02:36:27,097 - logger_File -INFO - User clicked in Sgin In Button
+2023-03-24 02:36:27,312 - logger_File -INFO - user is on account page
+2023-03-24 02:36:27,424 - logger_File -INFO - category changed
+2023-03-24 02:36:28,932 - logger_File -INFO - User clicked on Cart option
+2023-03-24 02:36:29,931 - logger_File -INFO - user fill new address
+2023-03-24 02:36:30,085 - logger_File -INFO - user clicked on add your address button
+2023-03-24 02:36:30,216 - logger_File -INFO - User added the card
+2023-03-24 02:36:30,666 - logger_File -INFO - user filled card informations
+2023-03-24 02:36:33,608 - logger_File -INFO - User is on retail website
+2023-03-24 02:36:33,741 - logger_File -INFO - User clicked on sign in option
+2023-03-24 02:36:33,952 - logger_File -INFO - User entred email and password
+2023-03-24 02:36:34,046 - logger_File -INFO - User clicked in Sgin In Button
+2023-03-24 02:36:34,296 - logger_File -INFO - user is on account page
+2023-03-24 02:36:34,474 - logger_File -INFO - category changed
+2023-03-24 02:36:35,072 - logger_File -INFO - User is on retail website
+2023-03-24 02:37:16,776 - logger_File -INFO - User is on retail website
+2023-03-24 02:37:16,913 - logger_File -INFO - User clicked on sign in option
+2023-03-24 02:37:17,146 - logger_File -INFO - User entred email and password
+2023-03-24 02:37:17,240 - logger_File -INFO - User clicked in Sgin In Button
+2023-03-24 02:37:17,459 - logger_File -INFO - user is on account page
+2023-03-24 02:37:17,678 - logger_File -INFO - user clicked on order section
+2023-03-24 02:37:19,772 - logger_File -INFO - User is on retail website
+2023-03-24 02:37:19,866 - logger_File -INFO - User clicked on sign in option
+2023-03-24 02:37:20,047 - logger_File -INFO - User entred email and password
+2023-03-24 02:37:20,116 - logger_File -INFO - User clicked in Sgin In Button
+2023-03-24 02:37:20,631 - logger_File -INFO - user is on account page
+2023-03-24 02:37:20,749 - logger_File -INFO - user clicked on order section
+2023-03-24 02:37:22,738 - logger_File -INFO - User is on retail website
+2023-03-24 02:37:22,879 - logger_File -INFO - User clicked on sign in option
+2023-03-24 02:37:23,044 - logger_File -INFO - User entred email and password
+2023-03-24 02:37:23,106 - logger_File -INFO - User clicked in Sgin In Button
+2023-03-24 02:37:23,313 - logger_File -INFO - user is on account page
+2023-03-24 02:37:23,467 - logger_File -INFO - user clicked on order section
+2023-03-24 02:42:04,427 - logger_File -INFO - User is on retail website
+2023-03-24 02:42:04,801 - logger_File -INFO - User clicked on sign in option
+2023-03-24 02:42:05,029 - logger_File -INFO - User entred email and password
+2023-03-24 02:42:05,118 - logger_File -INFO - User clicked in Sgin In Button
+2023-03-24 02:42:05,340 - logger_File -INFO - user is on account page
+2023-03-24 02:42:05,456 - logger_File -INFO - category changed
+2023-03-24 02:42:06,172 - logger_File -INFO - User click on All section
+2023-03-24 02:42:06,233 - logger_File -INFO - Electronicsoptions is present
+2023-03-24 02:42:06,329 - logger_File -INFO - Computersoptions is present
+2023-03-24 02:42:06,411 - logger_File -INFO - Smart Homeoptions is present
+2023-03-24 02:42:06,502 - logger_File -INFO - Sportsoptions is present
+2023-03-24 02:42:06,592 - logger_File -INFO - Automativeoptions is present
+2023-03-24 02:42:08,275 - logger_File -INFO - User is on retail website
+2023-03-24 02:42:08,455 - logger_File -INFO - User clicked on sign in option
+2023-03-24 02:42:08,654 - logger_File -INFO - User entred email and password
+2023-03-24 02:42:08,727 - logger_File -INFO - User clicked in Sgin In Button
+2023-03-24 02:42:08,945 - logger_File -INFO - user is on account page
+2023-03-24 02:42:09,053 - logger_File -INFO - category changed
+2023-03-24 02:42:09,688 - logger_File -INFO - User is on retail website
+2023-03-24 02:42:11,215 - logger_File -INFO - User is on retail website
+2023-03-24 02:42:11,342 - logger_File -INFO - User clicked on sign in option
+2023-03-24 02:42:11,527 - logger_File -INFO - User entred email and password
+2023-03-24 02:42:11,585 - logger_File -INFO - User clicked in Sgin In Button
+2023-03-24 02:42:11,831 - logger_File -INFO - user is on account page
+2023-03-24 02:42:11,941 - logger_File -INFO - category changed
+2023-03-24 02:42:12,658 - logger_File -INFO - User clicked on Cart option
+2023-03-24 02:42:13,643 - logger_File -INFO - user fill new address
+2023-03-24 02:42:13,764 - logger_File -INFO - user clicked on add your address button
+2023-03-24 02:42:13,897 - logger_File -INFO - User added the card
+2023-03-24 02:42:14,349 - logger_File -INFO - user filled card informations
+2023-03-24 02:42:16,762 - logger_File -INFO - Order Placed Successfully
+2023-03-24 02:42:18,359 - logger_File -INFO - User is on retail website
+2023-03-24 02:42:18,515 - logger_File -INFO - User clicked on sign in option
+2023-03-24 02:42:18,756 - logger_File -INFO - User entred email and password
+2023-03-24 02:42:18,814 - logger_File -INFO - User clicked in Sgin In Button
+2023-03-24 02:42:19,205 - logger_File -INFO - user is on account page
+2023-03-24 02:42:19,310 - logger_File -INFO - category changed
+2023-03-24 02:42:19,935 - logger_File -INFO - User is on retail website
+2023-03-24 02:43:01,682 - logger_File -INFO - User is on retail website
+2023-03-24 02:43:01,787 - logger_File -INFO - User clicked on sign in option
+2023-03-24 02:43:01,991 - logger_File -INFO - User entred email and password
+2023-03-24 02:43:02,055 - logger_File -INFO - User clicked in Sgin In Button
+2023-03-24 02:43:02,324 - logger_File -INFO - user is on account page
+2023-03-24 02:43:02,515 - logger_File -INFO - user clicked on order section
+2023-03-24 02:43:33,727 - logger_File -INFO - User is on retail website
+2023-03-24 02:43:33,896 - logger_File -INFO - User clicked on sign in option
+2023-03-24 02:43:34,095 - logger_File -INFO - User entred email and password
+2023-03-24 02:43:34,166 - logger_File -INFO - User clicked in Sgin In Button
+2023-03-24 02:43:34,381 - logger_File -INFO - user is on account page
+2023-03-24 02:43:34,525 - logger_File -INFO - user clicked on order section
+2023-03-24 02:43:56,168 - logger_File -INFO - User is on retail website
+2023-03-24 02:43:56,284 - logger_File -INFO - User clicked on sign in option
+2023-03-24 02:43:56,497 - logger_File -INFO - User entred email and password
+2023-03-24 02:43:56,581 - logger_File -INFO - User clicked in Sgin In Button
+2023-03-24 02:43:56,872 - logger_File -INFO - user is on account page
+2023-03-24 02:43:57,062 - logger_File -INFO - user clicked on order section
+2023-03-24 02:47:13,369 - logger_File -INFO - User is on retail website
+2023-03-24 02:47:13,483 - logger_File -INFO - User clicked on sign in option
+2023-03-24 02:47:13,677 - logger_File -INFO - User entred email and password
+2023-03-24 02:47:13,742 - logger_File -INFO - User clicked in Sgin In Button
+2023-03-24 02:47:13,983 - logger_File -INFO - user is on account page
+2023-03-24 02:47:14,230 - logger_File -INFO - category changed
+2023-03-24 02:47:14,913 - logger_File -INFO - User is on retail website
+2023-03-24 02:48:21,608 - logger_File -INFO - User is on retail website
+2023-03-24 02:48:21,741 - logger_File -INFO - User clicked on sign in option
+2023-03-24 02:48:21,929 - logger_File -INFO - User entred email and password
+2023-03-24 02:48:22,009 - logger_File -INFO - User clicked in Sgin In Button
+2023-03-24 02:48:22,248 - logger_File -INFO - user is on account page
+2023-03-24 02:48:22,386 - logger_File -INFO - category changed
+2023-03-24 02:48:23,028 - logger_File -INFO - User is on retail website
+2023-03-24 02:51:01,240 - logger_File -INFO - User is on retail website
+2023-03-24 02:51:01,336 - logger_File -INFO - User clicked on sign in option
+2023-03-24 02:51:01,554 - logger_File -INFO - User entred email and password
+2023-03-24 02:51:01,640 - logger_File -INFO - User clicked in Sgin In Button
+2023-03-24 02:51:01,858 - logger_File -INFO - user is on account page
+2023-03-24 02:51:01,980 - logger_File -INFO - category changed
+2023-03-24 02:51:02,726 - logger_File -INFO - category changed to Electronics
+2023-03-24 02:51:03,264 - logger_File -INFO - quantity changed to 5
+2023-03-24 02:52:58,577 - logger_File -INFO - User is on retail website
+2023-03-24 02:52:58,680 - logger_File -INFO - User clicked on sign in option
+2023-03-24 02:52:58,882 - logger_File -INFO - User entred email and password
+2023-03-24 02:52:58,976 - logger_File -INFO - User clicked in Sgin In Button
+2023-03-24 02:52:59,208 - logger_File -INFO - user is on account page
+2023-03-24 02:52:59,341 - logger_File -INFO - category changed
+2023-03-24 02:53:00,088 - logger_File -INFO - category changed to Electronics
+2023-03-24 02:53:01,137 - logger_File -INFO - quantity changed to 5
+2023-03-24 02:53:31,290 - logger_File -INFO - User is on retail website
+2023-03-24 02:53:31,445 - logger_File -INFO - User clicked on sign in option
+2023-03-24 02:53:31,639 - logger_File -INFO - User entred email and password
+2023-03-24 02:53:31,710 - logger_File -INFO - User clicked in Sgin In Button
+2023-03-24 02:53:31,949 - logger_File -INFO - user is on account page
+2023-03-24 02:53:32,083 - logger_File -INFO - category changed
+2023-03-24 02:53:32,856 - logger_File -INFO - category changed to Electronics
+2023-03-24 02:53:33,395 - logger_File -INFO - quantity changed to 5
+2023-03-24 02:54:58,035 - logger_File -INFO - User is on retail website
+2023-03-24 02:54:58,302 - logger_File -INFO - User clicked on sign in option
+2023-03-24 02:54:58,505 - logger_File -INFO - User entred email and password
+2023-03-24 02:54:58,587 - logger_File -INFO - User clicked in Sgin In Button
+2023-03-24 02:54:58,945 - logger_File -INFO - user is on account page
+2023-03-24 02:54:59,065 - logger_File -INFO - category changed to Electronics
+2023-03-24 02:54:59,658 - logger_File -INFO - quantity changed to 5
+2023-03-24 02:55:29,746 - logger_File -INFO - User is on retail website
+2023-03-24 02:55:29,869 - logger_File -INFO - User clicked on sign in option
+2023-03-24 02:55:30,060 - logger_File -INFO - User entred email and password
+2023-03-24 02:55:30,143 - logger_File -INFO - User clicked in Sgin In Button
+2023-03-24 02:55:30,375 - logger_File -INFO - user is on account page
+2023-03-24 02:55:30,506 - logger_File -INFO - category changed to Electronics
+2023-03-24 02:55:31,101 - logger_File -INFO - quantity changed to 5
+2023-03-24 02:55:31,278 - logger_File -INFO - cart icon quantity 
+2023-03-24 02:55:31,381 - logger_File -INFO - User clicked on Cart option
+2023-03-24 02:55:31,518 - logger_File -INFO - Place Your Order button is disabled as expected
+2023-03-24 02:55:31,543 - logger_File -INFO - User remained on the Checkout page
+2023-03-26 03:35:23,346 - logger_File -INFO - User is on retail website
+2023-03-26 03:35:23,497 - logger_File -INFO - User clicked on sign in option
+2023-03-26 03:35:23,730 - logger_File -INFO - User entred email and password
+2023-03-26 03:35:23,820 - logger_File -INFO - User clicked in Sgin In Button
+2023-03-26 03:35:24,058 - logger_File -INFO - user is on account page
+2023-03-26 03:35:24,227 - logger_File -INFO - category changed to Electronics
+2023-03-26 03:35:25,021 - logger_File -INFO - quantity changed to 5
+2023-03-26 03:35:25,205 - logger_File -INFO - cart icon quantity 
+2023-03-26 03:35:25,318 - logger_File -INFO - User clicked on Cart option
+2023-03-26 03:35:25,458 - logger_File -INFO - Place Your Order button is disabled as expected
+2023-03-26 03:35:25,478 - logger_File -INFO - User remained on the Checkout page
+2023-03-26 03:40:39,383 - logger_File -INFO - User is on retail website
+2023-03-26 03:40:39,525 - logger_File -INFO - User clicked on sign in option
+2023-03-26 03:40:39,740 - logger_File -INFO - User entred email and password
+2023-03-26 03:40:39,822 - logger_File -INFO - User clicked in Sgin In Button
+2023-03-26 03:40:40,043 - logger_File -INFO - user is on account page
+2023-03-26 03:40:40,174 - logger_File -INFO - category changed to Electronics
+2023-03-26 03:40:40,780 - logger_File -INFO - quantity changed to 5
+2023-03-26 03:40:40,937 - logger_File -INFO - cart icon quantity 
+2023-03-26 03:40:41,030 - logger_File -INFO - User clicked on Cart option
+2023-03-26 03:40:41,150 - logger_File -INFO - Place Your Order button is disabled as expected
+2023-03-26 03:40:41,176 - logger_File -INFO - User remained on the Checkout page
+2023-03-26 03:42:44,256 - logger_File -INFO - User is on retail website
+2023-03-26 03:42:44,360 - logger_File -INFO - User clicked on sign in option
+2023-03-26 03:42:44,575 - logger_File -INFO - User entred email and password
+2023-03-26 03:42:44,657 - logger_File -INFO - User clicked in Sgin In Button
+2023-03-26 03:42:45,046 - logger_File -INFO - user is on account page
+2023-03-26 03:42:45,210 - logger_File -INFO - category changed
+2023-03-26 03:42:46,001 - logger_File -INFO - cart icon quantity 
+2023-03-26 03:42:47,751 - logger_File -INFO - User is on retail website
+2023-03-26 03:42:47,937 - logger_File -INFO - User clicked on sign in option
+2023-03-26 03:42:48,155 - logger_File -INFO - User entred email and password
+2023-03-26 03:42:48,237 - logger_File -INFO - User clicked in Sgin In Button
+2023-03-26 03:42:48,479 - logger_File -INFO - user is on account page
+2023-03-26 03:42:48,565 - logger_File -INFO - User click on All section
+2023-03-26 03:42:48,617 - logger_File -INFO - Electronicsoptions is present
+2023-03-26 03:42:48,694 - logger_File -INFO - Computersoptions is present
+2023-03-26 03:42:48,813 - logger_File -INFO - Smart Homeoptions is present
+2023-03-26 03:42:48,934 - logger_File -INFO - Sportsoptions is present
+2023-03-26 03:42:49,026 - logger_File -INFO - Automativeoptions is present
+2023-03-26 03:42:50,924 - logger_File -INFO - User is on retail website
+2023-03-26 03:42:51,018 - logger_File -INFO - User clicked on sign in option
+2023-03-26 03:42:51,255 - logger_File -INFO - User entred email and password
+2023-03-26 03:42:51,337 - logger_File -INFO - User clicked in Sgin In Button
+2023-03-26 03:42:51,555 - logger_File -INFO - user is on account page
+2023-03-26 03:42:51,590 - logger_File -INFO - User is on retail website
+2023-03-26 03:42:53,571 - logger_File -INFO - User is on retail website
+2023-03-26 03:42:53,701 - logger_File -INFO - User clicked on sign in option
+2023-03-26 03:42:53,948 - logger_File -INFO - User entred email and password
+2023-03-26 03:42:54,037 - logger_File -INFO - User clicked in Sgin In Button
+2023-03-26 03:42:54,254 - logger_File -INFO - user is on account page
+2023-03-26 03:42:54,355 - logger_File -INFO - User clicked on Cart option
+2023-03-26 03:42:55,321 - logger_File -INFO - user fill new address
+2023-03-26 03:42:55,459 - logger_File -INFO - user clicked on add your address button
+2023-03-26 03:42:55,599 - logger_File -INFO - User added the card
+2023-03-26 03:42:56,038 - logger_File -INFO - user filled card informations
+2023-03-26 03:42:57,659 - logger_File -INFO - Order Placed Successfully
+2023-03-26 04:00:39,931 - logger_File -INFO - User is on retail website
+2023-03-26 04:00:40,740 - logger_File -INFO - User clicked on sign in option
+2023-03-26 04:00:41,141 - logger_File -INFO - User entred email and password
+2023-03-26 04:00:41,380 - logger_File -INFO - User clicked in Sgin In Button
+2023-03-26 04:00:41,576 - logger_File -INFO - user is on account page
+2023-03-26 04:00:42,294 - logger_File -INFO - category changed
+2023-03-26 04:00:45,199 - logger_File -INFO - cart icon quantity 
+2023-03-26 04:00:47,047 - logger_File -INFO - User is on retail website
+2023-03-26 04:00:47,782 - logger_File -INFO - User clicked on sign in option
+2023-03-26 04:00:48,222 - logger_File -INFO - User entred email and password
+2023-03-26 04:00:48,480 - logger_File -INFO - User clicked in Sgin In Button
+2023-03-26 04:00:48,676 - logger_File -INFO - user is on account page
+2023-03-26 04:00:49,346 - logger_File -INFO - User click on All section
+2023-03-26 04:00:49,910 - logger_File -INFO - Electronicsoptions is present
+2023-03-26 04:00:50,023 - logger_File -INFO - Computersoptions is present
+2023-03-26 04:00:50,106 - logger_File -INFO - Smart Homeoptions is present
+2023-03-26 04:00:50,189 - logger_File -INFO - Sportsoptions is present
+2023-03-26 04:00:50,272 - logger_File -INFO - Automativeoptions is present
+2023-03-26 04:00:52,612 - logger_File -INFO - User is on retail website
+2023-03-26 04:00:53,426 - logger_File -INFO - User clicked on sign in option
+2023-03-26 04:00:53,837 - logger_File -INFO - User entred email and password
+2023-03-26 04:00:54,084 - logger_File -INFO - User clicked in Sgin In Button
+2023-03-26 04:00:54,279 - logger_File -INFO - user is on account page
+2023-03-26 04:00:54,896 - logger_File -INFO - User is on retail website
+2023-03-26 04:00:57,020 - logger_File -INFO - User is on retail website
+2023-03-26 04:00:57,753 - logger_File -INFO - User clicked on sign in option
+2023-03-26 04:00:58,232 - logger_File -INFO - User entred email and password
+2023-03-26 04:00:58,483 - logger_File -INFO - User clicked in Sgin In Button
+2023-03-26 04:00:58,696 - logger_File -INFO - user is on account page
+2023-03-26 04:00:59,363 - logger_File -INFO - User clicked on Cart option
+2023-03-26 04:01:00,877 - logger_File -INFO - user fill new address
+2023-03-26 04:01:01,162 - logger_File -INFO - user clicked on add your address button
+2023-03-26 04:01:01,462 - logger_File -INFO - User added the card
+2023-03-26 04:01:02,135 - logger_File -INFO - user filled card informations
+2023-03-26 04:01:03,626 - logger_File -INFO - Order Placed Successfully

@@ -5,7 +5,7 @@ import org.junit.runner.RunWith;
 import static io.cucumber.junit.CucumberOptions.SnippetType.CAMELCASE;
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        tags = "@order",
+        tags = "@test1 or @test2 or @test3",
         features = "classpath:features",
         glue="tek.capstone.framwork",
         dryRun = false,
