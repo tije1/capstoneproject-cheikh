@@ -17,7 +17,7 @@ And User click on item
 And User then select quantity '2'
 And User then click add to Cart button
 Then The cart icon quantity should change to 2
-@test@
+@test2
 Scenario: Verify User can place an order without Shipping address and payment Method on file
 Given User is on retail website
 When User click on Sign in option
