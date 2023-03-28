@@ -3,7 +3,7 @@ Feature: Home Feature
 
 
 
-
+@test1
 Scenario: Verify user can add item to cart with selected quantity
 Given User is on retail website
 When User click on Sign in option
@@ -17,7 +17,7 @@ And User click on item
 And User then select quantity '2'
 And User then click add to Cart button
 Then The cart icon quantity should change to 2
-
+@test@
 Scenario: Verify User can place an order without Shipping address and payment Method on file
 Given User is on retail website
 When User click on Sign in option
@@ -36,7 +36,7 @@ And User click on Proceed to Checkout button
 And User click on Place Your Order Button
 Then User should remain on the Checkout page
 
-
+@test3
 Scenario: Verify Shop by Department sidebar
 Given User is on retail website
 When User click on Sign in option
@@ -62,7 +62,7 @@ Scenario Outline: Verify department sidebar options
 
 
 
-
+@test4
 Scenario: Verify User can place an order with Shipping address and payment Method on file
 Given User is on retail website
 When User click on Sign in option
