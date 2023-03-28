@@ -1,14 +1,15 @@
 Feature: Home Feature
 
-Background:
+
+
+
+
+Scenario: Verify user can add item to cart with selected quantity
 Given User is on retail website
 When User click on Sign in option
-And User enter email 'mstaph@gmail.com' and password 'Tek@1234567890'
+And User enter email 'ahmed@gmail.com' and password 'Tek@1234567890'
 And User click on login button
 And User should be logged in into Account
-
-@test1
-Scenario: Verify user can add item to cart with selected quantity
 And User change category to 'Smart Home'
 And User search for an item 'kasa outdoor smart plug'
 And User click on Search icon
@@ -17,8 +18,31 @@ And User then select quantity '2'
 And User then click add to Cart button
 Then The cart icon quantity should change to 2
 
-@test2
-Scenario: Verify Shop by Department sidebar 
+Scenario: Verify User can place an order without Shipping address and payment Method on file
+Given User is on retail website
+When User click on Sign in option
+And User enter email 'cheik@tekschool.us' and password 'Tek@1234567890'
+And User click on login button
+And User should be logged in into Account
+And User change the category to 'Electronics'
+And User search for the item 'Apex Legends' 
+And User click on Search icon
+And User click on item Apax
+And User select the quantity 4
+And User then click add to Cart button
+Then The quantity should change to 5
+And User click on Cart option 
+And User click on Proceed to Checkout button
+And User click on Place Your Order Button
+Then User should remain on the Checkout page
+
+
+Scenario: Verify Shop by Department sidebar
+Given User is on retail website
+When User click on Sign in option
+And User enter email 'mohamed@yahoo.fr' and password 'Tek@1234567890'
+And User click on login button
+And User should be logged in into Account 
 When User click on All section
 Then below options are present in Shop by Department sidebar
 |Electronics|Computers|Smart Home|Sports|Automative|
@@ -34,13 +58,24 @@ Scenario Outline: Verify department sidebar options
       | 'Smart Home'  | Smart Home Lightning           | Plugs and Outlets        |
       | 'Sports'      | Athletic Clothing              | Exercise & Fitness       |
       | 'Automative'  | Automative Parts & Accessories | MotorCycle & Powersports |
-@test2
-Scenario: Verify User can add an item to cart 
-Given User is on retail website
 
 
-@test3
+
+
+
 Scenario: Verify User can place an order with Shipping address and payment Method on file
+Given User is on retail website
+When User click on Sign in option
+And User enter email 'abou@gmail.com' and password 'Tek@1234567890'
+And User click on login button
+And User should be logged in into Account
+And User change the category to 'Electronics'
+And User search for the item 'Apex Legends' 
+And User click on Search icon
+And User click on item Apax
+And User select the quantity 4
+And User then click add to Cart button
+Then The quantity should change to 5
 And User click on Cart option
 And User click on Proceed to Checkout button
 And User click Add a new address link for shipping address
@@ -55,16 +90,4 @@ And User fill card information
 And User click on: Add your card button
 And User click on Place Your Order
 Then a message should be displayed 'Order Placed Successfully'
-@test4
-Scenario: Verify User can place an order without Shipping address and payment Method on file
-And User change the category to 'Electronics'
-And User search for the item 'Apex Legends' 
-And User click on Search icon
-And User click on item Apax
-And User select the quantity 4
-And User then click add to Cart button
-Then The quantity should change to 5
-And User click on Cart option 
-And User click on Proceed to Checkout button
-And User click on Place Your Order Button
-Then User should remain on the Checkout page
+
